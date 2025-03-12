@@ -6,7 +6,7 @@ I recently became temporarily unable to use my left hand\
 I do draw with my right hand, but I need the left to press all the shortcuts I use (which turns out to be a lot)
 
 Thought it'd be neat to have a tool like this to keep drawing even while one-handed, but I couldn't find anything like it\
-So here we are
+So here we are 😌
 
 ![AutoHotkey64_qOo9DgWhSK](https://github.com/user-attachments/assets/a200e56c-04b9-4745-a089-6e8fd3b077ef)
 
@@ -44,7 +44,7 @@ So here we are
     1. Opening AutoHotkey Dash
     2. Click on "Window spy"
     3. Hovering your cursor over your software's **main window**
-    4. Noting down the value next to `ahk_class`\
+    4. Noting down the value next to `ahk_class`
 
       ![AutoHotkeyUX_lYZgzheNIn](https://github.com/user-attachments/assets/fa30f030-e442-4072-8ff4-6a690503816b)
 
