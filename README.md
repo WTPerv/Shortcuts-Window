@@ -8,7 +8,7 @@ I do draw with my right hand, but I need the left to press all the shortcuts I u
 Thought it'd be neat to have a tool like this to keep drawing even while one-handed, but I couldn't find anything like it\
 So here we are 😌
 
-![AutoHotkey64_qOo9DgWhSK](https://github.com/user-attachments/assets/a200e56c-04b9-4745-a089-6e8fd3b077ef)
+https://github.com/user-attachments/assets/240bb9e8-b7de-4755-91b8-2f0523838ad3
 
 ## 👀 What does it do?
 - Every button emulates a different keystroke
