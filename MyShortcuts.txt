@@ -1,0 +1,50 @@
+// Add your shortcuts here
+// Each pair is added side by side (unless separated by a different category)
+// The "Global" category is for buttons outside of tabs, any new category will create a new tab
+// Names should use "_" instead of " ", it will get replaced back to " " later
+
+// Keystrokes Format:
+// https://www.autohotkey.com/docs/v2/lib/Send.htm
+
+// Shortcut properties (Separated by space):
+// Category | Name | Mode(click/hold) | Keystroke
+
+Global Undo click ^z
+Global Redo click ^+z
+Global Save click ^s
+Global Fullscreen click {Tab}
+Global Zoom_In hold ^{+}
+Global Zoom_Out hold ^{-}
+Global Rotate_Left hold ^+{+}
+Global Rotate_Right hold ^+{-}
+Global Reset_Rotation click 1
+Global Reset_Zoom click 0
+Global Flip_View click ^+h
+Global Fit_View click 2
+
+Paint Swap_Colors click x
+Paint Black/White click d
+Paint Erase_Mode click e
+Paint Alpha_Mode click k
+Paint B._Normal click !+n
+Paint B._Behind click !+b
+Paint Filter click ^u
+Paint Soft_Proof click ^y
+
+Edit Select_All click ^a
+Edit Deselect click ^d
+Edit Invert_Selection click ^+i
+Edit Fill click +f
+Edit Copy click ^c
+Edit Paste click ^v
+Edit Copy_Merged click ^+c
+Edit Paste_In_Active click ^+v
+
+Animate Prev click ,
+Animate Next click .
+Animate Prev_Key click ^,
+Animate Next_Key click ^.
+Animate Blank click {F7}
+Animate Duplicate click {F8}
+Animate Set_Start click {F9}
+Animate Set_End click {F10}
