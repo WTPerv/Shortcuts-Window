@@ -1,4 +1,4 @@
-# Shortcuts Window
+# 🖱 Shortcuts Window
 A floating window with configurable buttons that replicate keystrokes when clicked or held\
 **This script requires you to have [AutoHotkey V2](https://www.autohotkey.com/) installed**
 
@@ -10,26 +10,30 @@ So here we are
 
 ![AutoHotkey64_qOo9DgWhSK](https://github.com/user-attachments/assets/a200e56c-04b9-4745-a089-6e8fd3b077ef)
 
-## What does it do
-- This window always remains on top, but brings the focus back to your target software as soon as you press any of the buttons
+## 👀 What does it do?
+- Every button emulates a different keystroke
 
-- Contains 2 kinds of buttons:
+- Allows 2 kinds of button behaviours:
   - Clickable buttons
   - Holdable buttons (you can also just click these)
 
 - Contains a fixed set of buttons and other sets separated by tabs for more specific scenarios
 
+- This window always remains on top, but brings the focus back to your target software as soon as you press any of the buttons
+
+- Reminds you to **save** every few minutes
+
 - Remembers where you positioned the window when you closed it
 
-## How do I use it
+## 🤔 How do I use it?
 - If you've never used **Github** before:
-  - Look for the big green <span style="color:white; background:green; padding-right:5px; padding-left:5px">**Code**</span> button, click it and hit **Download ZIP**
+  - Look for the big green **Code** button, click it and hit **Download ZIP**
 - If you've never used **AutoHotkey** before:
   - After installing it, opening the [ShortcutsWindow.ahk](ShortcutsWindow.ahk) file will execute the script, revealing the window for you to use
 - Position it somewhere on top of your drawing software where it's comfortable
 - Buttons with a white border are holdable, the rest only respond to clicks
 
-## <span style="color:red">These shortcuts are trash / I don't use Krita</span>
+## 💢 These shortcuts are trash / I don't use Krita
 - The shortcuts are obviously catered to my taste and how I have Krita set up
   - You can customize **which buttons** are shown, in **what order**, in **which tab**, **what keystrokes** they emulate and **more** by messing with the [MyShortcuts.txt](MyShortcuts.txt) file (more instructions in there)
 
@@ -44,7 +48,7 @@ So here we are
 
       ![AutoHotkeyUX_lYZgzheNIn](https://github.com/user-attachments/assets/fa30f030-e442-4072-8ff4-6a690503816b)
 
-## Known Issues
+## ⚠ Known Issues
 - Due to the "bringing focus to your target software", **spamming buttons is kinda broken**
   - Hence the holdable buttons
   - Be gentle pls
