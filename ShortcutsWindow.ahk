@@ -118,7 +118,7 @@ DrawButtons() {
 
             ; SPECIAL BUTTON
             if sObj.name == "Save" {
-                btnSave := sBtn
+                global btnSave := sBtn
                 btnSave.Opt("Background" colorSave)
             }
         }

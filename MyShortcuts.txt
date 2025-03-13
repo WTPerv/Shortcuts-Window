@@ -33,7 +33,7 @@ Paint Soft_Proof click ^y
 
 Edit Select_All click ^a
 Edit Deselect click ^d
-Edit Invert_Selection click ^+i
+Edit Delete click {Del}
 Edit Fill click +f
 Edit Copy click ^c
 Edit Paste click ^v
